@@ -11,8 +11,8 @@ This app is built in react that can run in a browser or on a native app's webvie
 ## Directories
 
 * *my-app:* React app source code for Tic-Tac-Toe game 
-* *android-app:* Android studio project for webview react app 
-*ios-app:* iOS Xcode project for webview react app 
+* *android-app:* Android studio project for webview react app
+* *ios-app:* iOS Xcode project for webview react app 
 
 ## Instructions
 
